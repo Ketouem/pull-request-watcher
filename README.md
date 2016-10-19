@@ -10,5 +10,4 @@
 3. Edit the copied file to fill in the parameters:
   - GITHUB_AUTH_TOKEN
   - REPO
-  - ORGANIZATION
   - USER

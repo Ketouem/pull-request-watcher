@@ -16,7 +16,6 @@
 # this is the shell command that gets executed every time this widget refreshes
 GITHUB_AUTH_TOKEN = ''
 REPO = ''
-ORGANIZATION = ''
 USER = ''
 command: "curl -s -H \"Authorization: token #{GITHUB_AUTH_TOKEN}\" " +
          "https://api.github.com/repos/#{REPO}/pulls | " +
